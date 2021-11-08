@@ -1,0 +1,21 @@
+C:\Users\Panda\source\repos\Loan Calculator\Loan Calculator\bin\Debug\net5.0-windows\Loan Calculator.exe
+C:\Users\Panda\source\repos\Loan Calculator\Loan Calculator\bin\Debug\net5.0-windows\Loan Calculator.deps.json
+C:\Users\Panda\source\repos\Loan Calculator\Loan Calculator\bin\Debug\net5.0-windows\Loan Calculator.runtimeconfig.json
+C:\Users\Panda\source\repos\Loan Calculator\Loan Calculator\bin\Debug\net5.0-windows\Loan Calculator.runtimeconfig.dev.json
+C:\Users\Panda\source\repos\Loan Calculator\Loan Calculator\bin\Debug\net5.0-windows\Loan Calculator.dll
+C:\Users\Panda\source\repos\Loan Calculator\Loan Calculator\bin\Debug\net5.0-windows\ref\Loan Calculator.dll
+C:\Users\Panda\source\repos\Loan Calculator\Loan Calculator\bin\Debug\net5.0-windows\Loan Calculator.pdb
+C:\Users\Panda\source\repos\Loan Calculator\Loan Calculator\obj\Debug\net5.0-windows\Loan Calculator.csproj.AssemblyReference.cache
+C:\Users\Panda\source\repos\Loan Calculator\Loan Calculator\obj\Debug\net5.0-windows\Loan_Calculator.FrmLoanCalc.resources
+C:\Users\Panda\source\repos\Loan Calculator\Loan Calculator\obj\Debug\net5.0-windows\Loan Calculator.csproj.GenerateResource.cache
+C:\Users\Panda\source\repos\Loan Calculator\Loan Calculator\obj\Debug\net5.0-windows\Loan Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Panda\source\repos\Loan Calculator\Loan Calculator\obj\Debug\net5.0-windows\Loan Calculator.AssemblyInfoInputs.cache
+C:\Users\Panda\source\repos\Loan Calculator\Loan Calculator\obj\Debug\net5.0-windows\Loan Calculator.AssemblyInfo.cs
+C:\Users\Panda\source\repos\Loan Calculator\Loan Calculator\obj\Debug\net5.0-windows\Loan Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Panda\source\repos\Loan Calculator\Loan Calculator\obj\Debug\net5.0-windows\Loan Calculator.dll
+C:\Users\Panda\source\repos\Loan Calculator\Loan Calculator\obj\Debug\net5.0-windows\ref\Loan Calculator.dll
+C:\Users\Panda\source\repos\Loan Calculator\Loan Calculator\obj\Debug\net5.0-windows\Loan Calculator.pdb
+C:\Users\Panda\source\repos\Loan Calculator\Loan Calculator\obj\Debug\net5.0-windows\Loan Calculator.genruntimeconfig.cache
+C:\Users\Panda\source\repos\Loan Calculator\Loan Calculator\bin\Debug\net5.0-windows\BusinessLayer.dll
+C:\Users\Panda\source\repos\Loan Calculator\Loan Calculator\bin\Debug\net5.0-windows\BusinessLayer.pdb
+C:\Users\Panda\source\repos\Loan Calculator\Loan Calculator\obj\Debug\net5.0-windows\Loan Calculator.csproj.CopyComplete

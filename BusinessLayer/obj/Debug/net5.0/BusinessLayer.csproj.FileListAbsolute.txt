@@ -1,0 +1,11 @@
+C:\Users\Panda\source\repos\Loan Calculator\BusinessLayer\bin\Debug\net5.0\BusinessLayer.deps.json
+C:\Users\Panda\source\repos\Loan Calculator\BusinessLayer\bin\Debug\net5.0\BusinessLayer.dll
+C:\Users\Panda\source\repos\Loan Calculator\BusinessLayer\bin\Debug\net5.0\ref\BusinessLayer.dll
+C:\Users\Panda\source\repos\Loan Calculator\BusinessLayer\bin\Debug\net5.0\BusinessLayer.pdb
+C:\Users\Panda\source\repos\Loan Calculator\BusinessLayer\obj\Debug\net5.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Panda\source\repos\Loan Calculator\BusinessLayer\obj\Debug\net5.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\Panda\source\repos\Loan Calculator\BusinessLayer\obj\Debug\net5.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\Panda\source\repos\Loan Calculator\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Panda\source\repos\Loan Calculator\BusinessLayer\obj\Debug\net5.0\BusinessLayer.dll
+C:\Users\Panda\source\repos\Loan Calculator\BusinessLayer\obj\Debug\net5.0\ref\BusinessLayer.dll
+C:\Users\Panda\source\repos\Loan Calculator\BusinessLayer\obj\Debug\net5.0\BusinessLayer.pdb
